@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Britto but you can call me <strong>brittocx<strong></h1>
+<h1 align="center">Hi there! 👋, I'm Gabriel Britto but you can call me brittocx</h1>
 <h3 align="center">My focus is to become a Full-Stack developer, so that I can easily navigate between different languages.<br>
 But I'm not there yet, and at the moment I'm taking my first steps with HTML, CSS and Javascript :)</h3>
 
