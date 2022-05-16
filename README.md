@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Britto (brittocx)</h1>
-<h3 align="center">My focus is to become a Full-Stack developer, so that I can easily navigate between environments with different languages. 
-But I'm not there yet and at the moment I'm taking my first steps with HTML, CSS and Javascript :)</h3>
+<h3 align="center">My focus is to become a Full-Stack developer, so that I can easily navigate between environments with different languages.<br>
+But I'm not there yet, and at the moment I'm taking my first steps with HTML, CSS and Javascript :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brittocx&label=Profile%20views&color=0e75b6&style=flat" alt="brittocx" /> </p>
 
