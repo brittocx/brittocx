@@ -1,10 +1,9 @@
 <h1 align="center">Hi there! 👋, I'm Gabriel Britto but you can call me brittocx</h1>
-<h3 align="center">My focus is to become a Full-Stack developer, so that I can easily navigate between different languages.<br>
-But I'm not there yet, and at the moment I'm taking my first steps with HTML, CSS and Javascript :)</h3>
+<h3 align="center">My focus is to become a Front-End developer! :)<br>
+But I'm not there yet, and at the moment I'm taking my first steps with HTML, CSS and Javascript...
+Can you help me to achieve my goal ?</h3>
 
-- Please, check my GitHub profile at: [https://github.com/brittocx/](https://github.com/brittocx)
-
-- 📫 You can reach me anytime at: **brittocx@gmail.com**
+- 📫 You can always reach me at: **brittocx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
