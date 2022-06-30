@@ -19,6 +19,6 @@ Can you help me to achieve my goal ?</h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brittocx&show_icons=true&locale=en&layout=compact" alt="brittocx" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brittocx&show_icons=true&locale=en" alt="brittocx" />
 </div>
-  ![Snake animation](https://github.com/gabrielaguaru/gabrielaguaru/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/gabrielaguaru/gabrielaguaru/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brittocx&label=Profile%20views&color=0e75b6&style=flat" alt="brittocx" /> </p>
