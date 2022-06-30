@@ -2,7 +2,7 @@
 <h3 align="center">My focus is to become a Full-Stack developer, so that I can easily navigate between different languages.<br>
 But I'm not there yet, and at the moment I'm taking my first steps with HTML, CSS and Javascript :)</h3>
 
-- Please, check my portfolio at: [https://brittocx.github.io/brittocx-portfolio/](https://brittocx.github.io/brittocx-portfolio/)
+- Please, check my GitHub profile at: [https://github.com/brittocx/](https://github.com/brittocx)
 
 - 📫 You can reach me anytime at: **brittocx@gmail.com**
 
